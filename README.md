@@ -11,7 +11,7 @@ Or, you can make a `.env` file at the root of your repository with the content
 
 ## Notebooks
 
-Explore the following example notebooks and learn how our full-stack AI infrastructure can help you build and deploy real-world production-grade AI applications from the comfort of a jupyter notebook.
+Explore the following example notebooks and learn how our full-stack AI infrastructure can help you build and deploy real-world production-grade AI applications from the comfort of a Jupyter Notebook.
 
 **Instance Segmentation with ☁️ Instill Cloud**<br>
 [![Open in Google
