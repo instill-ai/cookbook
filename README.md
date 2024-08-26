@@ -17,7 +17,7 @@ Explore the following example notebooks and learn how our full-stack AI infrastr
 [![Open in Google
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/instill-ai/cookbook/blob/main/examples/Instance_segmentation_stomavision.ipynb)
 
-**Generating Structured Outputs from LLMs**
+**Generating Structured Outputs from LLMs**<br>
 [![Open in Google
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/instill-ai/cookbook/blob/main/examples/Generating_structured_outputs.ipynb)
 
