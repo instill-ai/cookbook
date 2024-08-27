@@ -13,7 +13,7 @@ Or, you can make a `.env` file at the root of your repository with the content
 
 Explore the following example notebooks and learn how our full-stack AI infrastructure can help you build and deploy real-world production-grade AI applications from the comfort of a Jupyter Notebook.
 
-**Instance Segmentation with ☁️ Instill Cloud**<br>
+**Instance Segmentation with Instill Cloud**<br>
 [![Open in Google
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/instill-ai/cookbook/blob/main/examples/Instance_segmentation_stomavision.ipynb)
 
