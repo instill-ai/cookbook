@@ -13,12 +13,9 @@ Or, you can make a `.env` file at the root of your repository with the content
 
 Explore the following example notebooks and learn how our full-stack AI infrastructure can help you build and deploy real-world production-grade AI applications from the comfort of a Jupyter Notebook.
 
-**Instance Segmentation with Instill Cloud**<br>
-[![Open in Google
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/instill-ai/cookbook/blob/main/examples/Instance_segmentation_stomavision.ipynb)
-
-**Generating Structured Outputs from LLMs**<br>
-[![Open in Google
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/instill-ai/cookbook/blob/main/examples/Generating_structured_outputs.ipynb)
+Notebook | Google&nbsp;Colab | Description
+:- | :- | :-
+[Instance Segmentation with Instill Cloud](https://github.com/instill-ai/cookbook/tree/main/examples/examples/Instance_segmentation_stomavision.ipynb) | [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/instill-ai/cookbook/blob/main/examples/Instance_segmentation_stomavision.ipynb) | Perform instance segmentation on microscopic plant stomata images using a production-grade Instill VDP pipeline on Instill Cloud.
+[Generating Structured Outputs from LLMs](https://github.com/instill-ai/cookbook/tree/main/examples/examples/Generating_structured_outputs.ipynb) | [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/instill-ai/cookbook/blob/main/examples/Generating_structured_outputs.ipynb) | Evaluate OpenAI's Structured Outputs feature and other tools including Instructor, Marvin, BAML, TypeChat, and LangChain for generating structured outputs from LLMs, demonstrated with a task that involves both reasoning and structured formatting.
 
 More examples coming soon - watch this space! 🚀
