@@ -13,7 +13,8 @@ Thank you for your interest in contributing to the Instill AI Cookbook! This gui
 ## How to Contribute
 
 ### 1. Reporting Issues
-If you encounter a bug, have a suggestion, or want to request a new notebook, please open an issue in the repository. When submitting an issue:
+If you encounter a bug, have a suggestion, or want to request a new notebook, please open an issue in the [instill-core](https://github.com/instill-ai/instill-core/issues/new/choose) repository. When submitting an issue:
+- Select an appropriate template.
 - Provide a clear, descriptive title.
 - Include as much detail as possible (steps to reproduce, screenshots, etc.).
 - Suggest possible solutions if applicable.
